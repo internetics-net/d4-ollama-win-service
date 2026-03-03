@@ -1,5 +1,7 @@
 # D4-Ollama-Win-Service
 
+Turn **Ollama** into a real **Windows service** that runs 24/7 without any headaches!
+
 Windows Service installation and management for Ollama using NSSM (Non-Sucking Service Manager).
 
 ## Overview
